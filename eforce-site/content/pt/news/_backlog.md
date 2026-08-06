@@ -13,7 +13,7 @@ item `[ ]` do topo pra baixo e marca `[x]` quando o post (PT+EN) publica.
 - [x] gravar bateria eletrônica direto do módulo via USB — sem microfone — gravar-usb-modulo-bateria-eletronica
 - [x] MIDI vs áudio: como tirar o melhor do módulo F10 numa DAW — midi-audio-modulo-f10-daw
 - [x] como escolher pedal de bumbo eletrônico (single vs duplo) — escolher-pedal-bumbo-eletronico
-- [ ] tocar de madrugada sem incomodar: isolamento acústico de bateria eletrônica — tocar-madrugada-isolamento-acustico
+- [x] tocar de madrugada sem incomodar: isolamento acústico de bateria eletrônica — tocar-madrugada-isolamento-acustico
 - [ ] EF2 V1 ou EF2 V2: como escolher entre os dois kits — ef2-v1-ou-v2-como-escolher
 - [ ] re-tensionar e cuidar dos pads mesh ao longo do tempo — cuidar-retensionar-pads-mesh
 - [ ] quantos sons por pad faz diferença na hora de estudar — camadas-som-por-pad-estudo
